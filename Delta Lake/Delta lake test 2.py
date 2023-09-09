@@ -45,4 +45,8 @@
 
 # COMMAND ----------
 
+# MAGIC %fs ls dbfs:/user/hive/
+
+# COMMAND ----------
+
 
